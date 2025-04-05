@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    text-align: center;
+    background-image: url("img/mama_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    text-rendering: auto;
+    voice-family: young;
+    play-during: auto;
+
+}
+table{
+    border-collapse:collapse;
+    margin: 30px
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: lime;
+}
+
+p {
+    color: darkorchid;
+    font-size: 30px;
+    voice-balance: max(100);
+    text-rendering: auto;
+    play-during: auto;
+}
+.home-icon {
+    background-color: red;
+    color: azure;
+    font-size: 36px;
+}
+.home{
+    color: deeppink;
+    font-size: 32px;
+}
+a {
+    play-during: auto;
+    color: gold;
+    font-size: 36px;
+
+}
